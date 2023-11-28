@@ -31,10 +31,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElissonNadson&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Linguagens mais usadas por Elisson Nadson" />
 </div>
 
-<h2>Tecnologias</h2>
+
+
+
+
+<h2>Conhecimento em: </h2>
 
 <div>
-  <img  alt="JavaScript" height="50"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="Java" height="50"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img  alt="Python" height="50"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img  alt="MySQL" height="50"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  alt="C" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -42,7 +46,6 @@
   <img  alt="VS Code" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img  alt="Figma" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img  alt="Git" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Godot Script" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
   <img alt="Godot" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 </div>
 
