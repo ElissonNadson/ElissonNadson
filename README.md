@@ -4,10 +4,11 @@
 
 <br>
 
+
 <div align="center">
-  <a href="https://github.com/ElissonNadson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElissonNadson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElissonNadson&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Elisson Nadson github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElissonNadson&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
 </div>
   <br>
 
